@@ -1,0 +1,8 @@
+.navbar{
+    font-weight: 400;
+    font-size: 2px;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(0, 123, 255);
+   
+}
